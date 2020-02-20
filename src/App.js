@@ -6,7 +6,7 @@ import CharacterCard from "./components/CharacterCard";
 import Score from "./components/Score";
 import Alert from "./components/Alert";
 import NavBar from "./components/NavBar";
-import characters from "./characters.json.js";
+import characters from "./characters.json";
 
 class App extends Component {
 
