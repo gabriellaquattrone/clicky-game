@@ -44,7 +44,7 @@ class App extends Component {
     }
     return a;
   }
-
+// Check the pickedChars array to see if the character was already picked.
   checkGuess = (name, cb) => {
     const newState = { ...this.state };
     if (newState.pickedChars.includes(name)) {
@@ -72,7 +72,7 @@ class App extends Component {
     }
     cb(newState)
   }
-
+// If all of the characters have been picked, the user wins!
   alertWinner = (newState) => {
     if (newState.pickedChars.length === 12) {
       newState.alertMessage = "You did it! You caught them all!";
