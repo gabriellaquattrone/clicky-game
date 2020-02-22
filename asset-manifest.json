@@ -1,22 +1,34 @@
 {
   "files": {
     "main.css": "/clicky-game/static/css/main.d82012ef.chunk.css",
-    "main.js": "/clicky-game/static/js/main.9da5011c.chunk.js",
-    "main.js.map": "/clicky-game/static/js/main.9da5011c.chunk.js.map",
+    "main.js": "/clicky-game/static/js/main.afa33c5a.chunk.js",
+    "main.js.map": "/clicky-game/static/js/main.afa33c5a.chunk.js.map",
     "runtime-main.js": "/clicky-game/static/js/runtime-main.24c47d54.js",
     "runtime-main.js.map": "/clicky-game/static/js/runtime-main.24c47d54.js.map",
-    "static/js/2.a538924e.chunk.js": "/clicky-game/static/js/2.a538924e.chunk.js",
-    "static/js/2.a538924e.chunk.js.map": "/clicky-game/static/js/2.a538924e.chunk.js.map",
+    "static/js/2.afdba3b3.chunk.js": "/clicky-game/static/js/2.afdba3b3.chunk.js",
+    "static/js/2.afdba3b3.chunk.js.map": "/clicky-game/static/js/2.afdba3b3.chunk.js.map",
     "index.html": "/clicky-game/index.html",
-    "precache-manifest.d921dd2c9549925d6c4b8e4ad8b4499b.js": "/clicky-game/precache-manifest.d921dd2c9549925d6c4b8e4ad8b4499b.js",
+    "precache-manifest.96877e48461827c128075b14dfef30b3.js": "/clicky-game/precache-manifest.96877e48461827c128075b14dfef30b3.js",
     "service-worker.js": "/clicky-game/service-worker.js",
     "static/css/main.d82012ef.chunk.css.map": "/clicky-game/static/css/main.d82012ef.chunk.css.map",
-    "static/js/2.a538924e.chunk.js.LICENSE.txt": "/clicky-game/static/js/2.a538924e.chunk.js.LICENSE.txt"
+    "static/js/2.afdba3b3.chunk.js.LICENSE.txt": "/clicky-game/static/js/2.afdba3b3.chunk.js.LICENSE.txt",
+    "static/media/bulbasaur.png": "/clicky-game/static/media/bulbasaur.76944995.png",
+    "static/media/celebi.png": "/clicky-game/static/media/celebi.b95b8bde.png",
+    "static/media/eevee.png": "/clicky-game/static/media/eevee.95aad79f.png",
+    "static/media/electrabuzz.png": "/clicky-game/static/media/electrabuzz.05ac8155.png",
+    "static/media/froakie.png": "/clicky-game/static/media/froakie.500e2a0a.png",
+    "static/media/metang.png": "/clicky-game/static/media/metang.76f8fb3f.png",
+    "static/media/mew.jpeg": "/clicky-game/static/media/mew.455fe836.jpeg",
+    "static/media/mewtwo.jpeg": "/clicky-game/static/media/mewtwo.888c1c11.jpeg",
+    "static/media/pikachu.png": "/clicky-game/static/media/pikachu.24e2cc89.png",
+    "static/media/piplup.png": "/clicky-game/static/media/piplup.4e97d0f7.png",
+    "static/media/sandshrew.png": "/clicky-game/static/media/sandshrew.d0b169f4.png",
+    "static/media/torchic.png": "/clicky-game/static/media/torchic.b50c9326.png"
   },
   "entrypoints": [
     "static/js/runtime-main.24c47d54.js",
-    "static/js/2.a538924e.chunk.js",
+    "static/js/2.afdba3b3.chunk.js",
     "static/css/main.d82012ef.chunk.css",
-    "static/js/main.9da5011c.chunk.js"
+    "static/js/main.afa33c5a.chunk.js"
   ]
 }
