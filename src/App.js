@@ -6,7 +6,7 @@ import CharacterCard from "./components/CharacterCard";
 import Score from "./components/Score";
 import Alert from "./components/Alert";
 import NavBar from "./components/NavBar";
-import characters from "./characters.json";
+import characters from "./characters.js";
 
 class App extends Component {
 
@@ -118,9 +118,9 @@ class App extends Component {
 
         </Grid>
 
-        <Grid container spacing={24} justify="center" style={{ maxWidth: 945, margin: "0 auto" }}>
+        <Grid container justify="center" style={{ maxWidth: 945, margin: "0 auto" }}>
           {this.state.characters.map(char => (
-            <Grid item lg={3} md={3} sm={4} xs={6}>
+            <Grid item key={char.id} lg={3} md={3} sm={4} xs={6}>
             <CharacterCard
               id={char.id}
               name={char.name}

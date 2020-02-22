@@ -8,7 +8,7 @@ const NavBar = props => {
         <div>
         <AppBar position="static" {...props}>
             <Toolbar>
-                <Typography variant="headline" color="inherit" align="center">
+                <Typography color="inherit" align="center">
                 Clicky Game
                 </Typography>
             </Toolbar>

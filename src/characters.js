@@ -1,63 +1,65 @@
-[
+let pictures = [
     {
         "id": 1,
         "name": "Piplup",
-        "image": "../imgs/piplup.png"
+        "image": require("./imgs/piplup.png")
     },
     {
         "id": 2,
         "name": "Pikachu",
-        "image": "../imgs/pikachu.png"
+        "image": require("./imgs/pikachu.png")
     },
     {
         "id": 3,
         "name": "Bulbasaur",
-        "image": "../imgs/bulbasaur.png"
+        "image": require("./imgs/bulbasaur.png")
     },
     {
         "id": 4,
         "name": "Electrabuzz",
-        "image": "../imgs/electrabuzz.png"
+        "image": require("./imgs/electrabuzz.png")
     },
     {
         "id": 5,
         "name": "Celebi",
-        "image": "../imgs/celebi.png"
+        "image": require("./imgs/celebi.png")
     },
     {
         "id": 6,
         "name": "Mew",
-        "image": "../imgs/mew.jpeg"
+        "image": require("./imgs/mew.jpeg")
     },
     {
         "id": 7,
         "name": "Mewtwo",
-        "image": "../imgs/mewtwo.jpeg"
+        "image": require("./imgs/mewtwo.jpeg")
     },
     {
         "id": 8,
         "name": "Torchic",
-        "image": "../imgs/torchic.png"
+        "image": require("./imgs/torchic.png")
     },
     {
         "id": 9,
         "name": "Froakie",
-        "image": "../imgs/froakie.png"
+        "image": require("./imgs/froakie.png")
     },
     {
         "id": 10,
         "name": "Sandshrew",
-        "image": "../imgs/sandshrew.png"
+        "image": require("./imgs/sandshrew.png")
     },
     {
         "id": 11,
         "name": "Metang",
-        "image": "../imgs/metang.png"
+        "image": require("./imgs/metang.png")
     },
     {
         "id": 12,
         "name": "Eevee",
-        "image": "../imgs/eevee.png"
+        "image": require("./imgs/eevee.png")
     }
 
 ]
+
+export default pictures;
